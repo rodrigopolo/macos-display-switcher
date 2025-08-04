@@ -30,7 +30,7 @@ A modern, interactive terminal-based tool for switching display resolutions on m
 
 1. Download the script:
    ```bash
-   curl -O https://raw.githubusercontent.com/YOUR_USERNAME/macos-display-switcher/main/display_switcher.py
+   curl -O https://raw.githubusercontent.com/rodrigopolo/macos-display-switcher/main/display_switcher.py
    ```
 
 2. Make it executable:
